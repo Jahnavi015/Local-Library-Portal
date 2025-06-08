@@ -1,0 +1,22 @@
+{
+  "name": "local-library-portal",
+  "version": "1.0.0",
+  "description": "A Local Library Portal backend with JWT authentication and book borrowing features.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0"
+  },
+  "keywords": [
+    "library",
+    "express",
+    "jwt",
+    "books",
+    "portal"
+  ],
+  "author": "Your Name",
+  "license": "ISC"
+}
